@@ -1,2 +1,2 @@
 # BIMDemo
-a simple BIM demo for first learner
+a simple BIM vue demo
